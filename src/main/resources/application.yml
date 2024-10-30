@@ -10,10 +10,3 @@ spring:
       server:
         native:
           search-locations: file://${user.home}/IdeaProjects/2024/bank-system/config/{application}
-
-#  security:
-#    user:
-#      name: admin
-#      password: admin
-#      roles:
-#        - CONFIG
